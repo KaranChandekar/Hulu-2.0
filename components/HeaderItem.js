@@ -1,6 +1,6 @@
-import React, { InsHTMLAttributes } from "react";
+import React from "react";
 
-function HeaderItem({ Icon, title }: any) {
+function HeaderItem({ Icon, title }) {
   return (
     <div className="flex flex-col items-center cursor-pointer group w-14 sm:w-16 hover:text-white">
       <Icon className="h-8 mb-1 group-hover:animate-bounce" />
