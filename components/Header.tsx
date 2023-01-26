@@ -12,8 +12,8 @@ import {
 
 function Header() {
   return (
-    <header className="flex flex-col sm:flex-row justify-between items-center m-4 h-auto">
-      <div className="flex flex-grow justify-evenly max-w-lg">
+    <header className="flex flex-col items-center justify-between h-auto m-4 sm:flex-row">
+      <div className="flex flex-grow max-w-lg justify-evenly">
         <HeaderItem title="HOME" Icon={HomeIcon} />
         <HeaderItem title="TRENDING" Icon={BoltIcon} />
         <HeaderItem title="VERIFIED" Icon={CheckBadgeIcon} />
