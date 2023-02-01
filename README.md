@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Metaverse
+A modern Next 13 website with Framer Motion & Tailwind CSS.
+
+## Screenshot
+
+![Screenshot (310)](https://user-images.githubusercontent.com/93200960/216083237-b4fdefab-dfd3-4b3a-8bd5-c6755950a45c.png)
 
 ## Getting Started
 
