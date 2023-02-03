@@ -1,5 +1,6 @@
 # Metaverse
-A modern Next 13 website with Framer Motion & Tailwind CSS.
+
+A modern Next 13 website with Framer Motion & Tailwind CSS. [Take a look](https://metaversusmadness.vercel.app/)
 
 ## Screenshot
 
