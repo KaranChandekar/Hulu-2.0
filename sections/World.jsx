@@ -20,7 +20,7 @@ const World = () => (
       <TitleText
         title={
           <>
-            Track friends aroudn you and invited them to play together in the
+            Track friends around you and invite them to play together in the
             same world
           </>
         }
