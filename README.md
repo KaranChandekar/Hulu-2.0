@@ -18,3 +18,10 @@ A modern Next 13 website with Framer Motion & Tailwind CSS. [Take a look](https:
 ## Contribution
 
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
+
+## Acknowledgments
+
+- To anyone who is reading this... _You're awesome!_
+
+That being said
+_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
